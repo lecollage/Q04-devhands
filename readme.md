@@ -1,6 +1,6 @@
-# Q04 // Queues - Devhands.io //
+# Q04 // Queues - Devhands.io // Apache Kafka Practice 1
 
-## Test Kafka 
+## Apache Kafka Practice 1 
 Repository contains source code to run kafka locally and test it via running differen programs written in go 
 
 ## How to run Kafka on Ubuntu
